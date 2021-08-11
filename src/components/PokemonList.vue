@@ -52,5 +52,6 @@ export default {
 .d-flex{
   display: flex;
   flex-wrap: wrap;
+  background-color: rgba(173, 173, 173, 0.5);
 }
 </style>
